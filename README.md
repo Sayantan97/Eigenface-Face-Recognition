@@ -1,2 +1,2 @@
 # Eigenface-Face-Recognition
-Face Recognition using Eigneface
+Face Recognition using Eigenface
